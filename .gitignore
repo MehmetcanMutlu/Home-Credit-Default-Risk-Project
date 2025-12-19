@@ -1,0 +1,24 @@
+# Sanal Ortam (Gereksiz binlerce dosya gitmesin)
+venv/
+env/
+.env
+
+# Veri Setleri (GitHub'a sığmaz, herkes Kaggle'dan indirmeli)
+*.csv
+*.zip
+*.xls
+*.xlsx
+
+# Mac Gereksiz Dosyaları
+.DS_Store
+
+# Jupyter Notebook Önbellekleri
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.DS_Store
+*.csv
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+home_credit_db.sqlite
