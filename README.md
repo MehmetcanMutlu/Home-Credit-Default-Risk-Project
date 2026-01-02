@@ -83,4 +83,4 @@ Implementing this model can help the bank:
 * **Automate** the initial credit screening process.
 
 ---
-*Author: [Mehmet Can Mutlu]*
+*Author: [Mehmetcan Mutlu]*

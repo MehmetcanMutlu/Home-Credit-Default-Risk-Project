@@ -83,4 +83,4 @@ Bu modelin uygulanması bankaya şunları sağlar:
 * **Kredi Ön Değerlendirme** sürecinin otomatize edilmesi.
 
 ---
-*Yazar: [Mehmet Can Mutlu]*
+*Yazar: [Mehmetcan Mutlu]*
